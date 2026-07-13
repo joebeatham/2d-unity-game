@@ -1,0 +1,6 @@
+BushSkeleton.png
+size:1250,430
+filter:Linear,Linear
+Moss_Bush
+bounds:2,2,1246,426
+offsets:243,1120,1668,2388

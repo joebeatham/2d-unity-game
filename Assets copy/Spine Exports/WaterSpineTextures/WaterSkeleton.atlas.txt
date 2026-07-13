@@ -1,0 +1,6 @@
+WaterSkeleton.png
+size:2504,683
+filter:Linear,Linear
+Water
+bounds:2,2,2500,679
+offsets:0,0,2500,1000

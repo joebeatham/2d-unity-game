@@ -1,0 +1,104 @@
+ClockworkRobotBrokenSkeleton.png
+size:881,1014
+filter:Linear,Linear
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-1
+bounds:489,109,119,182
+offsets:647,317,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-10
+bounds:800,447,61,59
+offsets:451,398,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-11
+bounds:742,20,94,95
+offsets:490,323,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-12
+bounds:419,7,66,68
+offsets:449,394,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-12_2
+bounds:419,7,66,68
+offsets:449,394,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-13
+bounds:639,6,101,101
+offsets:485,321,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-13_2
+bounds:639,6,101,101
+offsets:485,321,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-14
+bounds:245,234,252,207
+offsets:397,645,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-15
+bounds:245,61,172,171
+offsets:457,663,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-15_2
+bounds:245,61,172,171
+offsets:457,663,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-16
+bounds:331,24,35,73
+offsets:525,741,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-17
+bounds:831,392,53,35
+offsets:535,741,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-18
+bounds:2,443,796,569
+offsets:142,431,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-18_2
+bounds:2,443,796,569
+offsets:142,431,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-19
+bounds:245,19,40,84
+offsets:523,498,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-19_2
+bounds:245,19,40,84
+offsets:523,498,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-19_3
+bounds:245,19,40,84
+offsets:523,498,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-19_4
+bounds:245,19,40,84
+offsets:523,498,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-1_2
+bounds:499,331,110,223
+offsets:657,318,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-2
+bounds:724,297,105,144
+offsets:597,449,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-20
+bounds:800,760,79,252
+offsets:520,45,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-21
+bounds:2,16,119,12
+offsets:753,820,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-22
+bounds:722,226,125,69
+offsets:811,786,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-3
+bounds:499,230,99,221
+offsets:325,369,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-5
+bounds:489,2,105,148
+offsets:525,11,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-6
+bounds:800,508,79,250
+offsets:428,49,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-7
+bounds:673,117,107,148
+offsets:433,15,1000,1000
+rotate:90
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-8
+bounds:2,30,241,411
+offsets:387,259,1000,1000
+Clockwork Robot Images/Clockwork_Robot_(Destroyed)_Export-9
+bounds:419,75,157,68
+offsets:435,451,1000,1000
+rotate:90

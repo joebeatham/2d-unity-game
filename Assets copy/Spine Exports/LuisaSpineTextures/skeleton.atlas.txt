@@ -1,0 +1,86 @@
+skeleton.png
+size:1783,889
+filter:Linear,Linear
+Luisa Images/Greatsword
+bounds:2,2,986,885
+offsets:6,36,1000,1000
+Luisa Images/Luisa-1
+bounds:1555,380,152,280
+offsets:616,316,1000,1000
+Luisa Images/Luisa-10
+bounds:1345,375,256,208
+offsets:394,643,1000,1000
+rotate:90
+Luisa Images/Luisa-11
+bounds:990,456,135,431
+offsets:478,288,1000,1000
+Luisa Images/Luisa-12
+bounds:1331,618,9,13
+offsets:550,721,1000,1000
+Luisa Images/Luisa-13
+bounds:1421,10,176,60
+offsets:453,735,1000,1000
+Luisa Images/Luisa-14
+bounds:1127,633,401,254
+offsets:260,594,1000,1000
+Luisa Images/Luisa-15
+bounds:1345,225,148,299
+offsets:439,326,1000,1000
+rotate:90
+Luisa Images/Luisa-16
+bounds:1081,24,196,37
+offsets:415,306,1000,1000
+Luisa Images/Luisa-17
+bounds:990,147,353,307
+offsets:336,315,1000,1000
+Luisa Images/Luisa-18
+bounds:990,57,88,89
+offsets:474,554,1000,1000
+rotate:90
+Luisa Images/Luisa-19
+bounds:1646,100,278,135
+offsets:384,812,1000,1000
+rotate:90
+Luisa Images/Luisa-2
+bounds:1345,72,151,279
+offsets:252,317,1000,1000
+rotate:90
+Luisa Images/Luisa-20
+bounds:1127,472,54,20
+offsets:532,800,1000,1000
+Luisa Images/Luisa-21
+bounds:1709,386,67,159
+offsets:532,89,1000,1000
+Luisa Images/Luisa-4
+bounds:1709,386,67,159
+offsets:532,89,1000,1000
+Luisa Images/Luisa-22
+bounds:1530,662,117,117
+offsets:527,1,1000,1000
+Luisa Images/Luisa-6
+bounds:1530,662,117,117
+offsets:527,1,1000,1000
+Luisa Images/Luisa-23
+bounds:1313,8,62,106
+offsets:344,492,1000,1000
+rotate:90
+Luisa Images/Luisa-24
+bounds:1127,494,137,202
+offsets:252,317,1000,1000
+rotate:90
+Luisa Images/Luisa-3
+bounds:1709,547,66,232
+offsets:424,17,1000,1000
+Luisa Images/Luisa-5
+bounds:1626,9,89,113
+offsets:420,4,1000,1000
+rotate:90
+Luisa Images/Luisa-7
+bounds:1530,781,239,106
+offsets:394,219,1000,1000
+Luisa Images/Luisa-8
+bounds:1649,726,45,53
+offsets:494,608,1000,1000
+Luisa Images/Luisa-9
+bounds:1081,63,230,82
+offsets:409,598,1000,1000

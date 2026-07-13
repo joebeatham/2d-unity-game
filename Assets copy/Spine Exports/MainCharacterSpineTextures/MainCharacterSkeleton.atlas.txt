@@ -1,0 +1,86 @@
+MainCharacterSkeleton.png
+size:2372,2054
+filter:Linear,Linear
+Main Character Images/Greatsword
+bounds:1004,64,986,885
+offsets:6,36,1000,1000
+rotate:90
+Main Character Images/Main_Character_Clouds-1
+bounds:2,1052,1000,1000
+Main Character Images/Main_Character_Clouds-2
+bounds:2,50,1000,1000
+Main Character Images/Main_Character_Export-1
+bounds:1891,69,110,142
+offsets:658,317,1000,1000
+Main Character Images/Main_Character_Export-10
+bounds:1891,213,204,254
+offsets:407,56,1000,1000
+Main Character Images/Main_Character_Export-11
+bounds:1891,469,472,581
+offsets:277,153,1000,1000
+Main Character Images/Main_Character_Export-11_1
+bounds:2006,1471,344,581
+offsets:341,153,1000,1000
+Main Character Images/Main_Character_Export-11_2
+bounds:2006,1091,157,232
+offsets:592,386,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-11_3
+bounds:2097,335,132,231
+offsets:277,385,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-2
+bounds:2240,1144,104,130
+offsets:251,317,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-3
+bounds:1004,8,70,54
+offsets:413,9,1000,1000
+Main Character Images/Main_Character_Export-4
+bounds:2269,1324,145,64
+offsets:529,6,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-4_1
+bounds:2269,1324,145,64
+offsets:529,6,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-5
+bounds:2,2,46,62
+offsets:494,608,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export-6
+bounds:2006,1250,261,219
+offsets:390,640,1000,1000
+Main Character Images/Main_Character_Export-7
+bounds:365,18,9,13
+offsets:550,721,1000,1000
+Main Character Images/Main_Character_Export-9
+bounds:1004,1052,1000,1000
+Main Character Images/Main_Character_Export_LE-1
+bounds:66,4,71,44
+offsets:464,737,1000,1000
+Main Character Images/Main_Character_Export_LE-2
+bounds:211,9,39,32
+offsets:480,750,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export_LE-3
+bounds:279,9,18,13
+offsets:478,769,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export_LE-4
+bounds:279,29,74,19
+offsets:461,768,1000,1000
+Main Character Images/Main_Character_Export_RE-1
+bounds:139,5,70,43
+offsets:554,738,1000,1000
+Main Character Images/Main_Character_Export_RE-2
+bounds:245,9,39,32
+offsets:570,750,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export_RE-3
+bounds:355,33,15,10
+offsets:570,770,1000,1000
+rotate:90
+Main Character Images/Main_Character_Export_RE-4
+bounds:294,10,69,17
+offsets:555,768,1000,1000
